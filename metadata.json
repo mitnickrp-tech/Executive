@@ -1,0 +1,6 @@
+{
+  "name": "RecruiterHub - Portfólio & Dossiê Profissional",
+  "description": "Plataforma interativa projetada para encantar recrutadores e gestores técnicos, com análise de fit cultural, projetos interativos e resumo executivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
